@@ -1,2 +1,0 @@
-utilizamos o Fetch API - 
-utilizamos o conceitO MOBILEFIRST css

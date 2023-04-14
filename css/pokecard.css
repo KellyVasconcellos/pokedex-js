@@ -19,7 +19,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 8px;
+    padding: 8px 8px 16px 8px;
 }
 
 .container .card img {
@@ -38,6 +38,7 @@
     color: #fff;
     margin-bottom: .25rem;
     text-transform: capitalize;
+    font-size: 1rem;
 }
 
 .header {
@@ -48,7 +49,7 @@
 }
 
 .card-color {
-    background-color: white;
+    background-color: #fff;
     border-radius: 12px;
     padding: 8px;
 }
@@ -62,7 +63,8 @@ ul {
 ul li {
     list-style-type: none;
     padding: 10px;
-    border-right: 1.5px solid #BACDD8;  
+    border-right: 1.7px solid #f4f8fb; 
+    text-align: center; 
 }
   
 ul li:last-child {
@@ -71,11 +73,12 @@ ul li:last-child {
 
 .type {
     color: #fff;
-    width: 50px;
-    border-radius: 30px;
+    padding: 0.25rem 0.5rem;
+    margin: 0.25rem 0;
+    font-size: .625rem;
+    border-radius: 1rem;
+    filter: brightness(1.1);
     text-align: center;
-    font-size: 12px;
-    margin-bottom: 2px;
 }
 
 .card-color p, span {
@@ -83,8 +86,12 @@ ul li:last-child {
     font-size: 12px;
 }
 
+p {
+    opacity: .8;
+}
+
 .card-color span {
-    color: #BACDD8;
+    color: #d3d7d9;
 }
 
 table {
@@ -99,6 +106,8 @@ td, th {
     border: none;
     text-align: left;
     padding: 8px;
+    opacity: .8;
+    border-radius: 1.5px;
 }
 
 td {
@@ -110,7 +119,7 @@ th {
 }
   
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #f9f8f8;
 }
 
 

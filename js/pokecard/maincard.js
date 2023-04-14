@@ -18,18 +18,18 @@ function convertPokemonToLi(pokemon) {
                 <ul>
                     <li>
                         <p>${pokemon.weight}kg</p>
-                        <span>WEIGHT</span>
+                        <span>Weight</span>
                     </li>
                     <li>
                         ${pokemon.types.map((type) => `<div class="type ${type}"> ${type} </div>`).join('')}
                     </li>
                     <li>
                         <p>${pokemon.height}m</p>
-                        <span>HEIGHT</span>
+                        <span>Height</span>
                     </li>
                 </ul>
 
-                <hr color="#BACDD8" size="1px">
+                <hr color="#f4f8fb" size="2px";>
 
                 <div style="display:flex;">
                     <table>
