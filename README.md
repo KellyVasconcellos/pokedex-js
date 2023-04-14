@@ -11,7 +11,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Pokedex** é uma aplicação front-end em JavaScript puro que foi criado dentro do Bootcamp da DIO [Primeiras Páginas Interativas com JavaScript, Dio](https://www.dio.me/).
+O projeto **Pokedex** é uma aplicação front-end em JavaScript puro que foi desenvolvido dentro do Bootcamp da DIO [Primeiras Páginas Interativas com JavaScript, Dio](https://www.dio.me/).
 
 ---
 
