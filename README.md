@@ -21,7 +21,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [API Pokémon](https://pokeapi.co/)
 
 ---
