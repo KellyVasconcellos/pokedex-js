@@ -3,10 +3,6 @@
     <img src="public/apresentacao.gif">
 </h1>
 
-<h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/pokedex-js/">Acessar Website</a>
-<h3 >
-
 # Indice
 
 - [Sobre](#-sobre)
